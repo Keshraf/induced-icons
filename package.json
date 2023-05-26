@@ -27,6 +27,15 @@
       "pre-commit": "tsdx lint"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keshraf/induced-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "react",
+    "induced"
+  ],
   "prettier": {
     "printWidth": 80,
     "semi": true,
